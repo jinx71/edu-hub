@@ -23,14 +23,6 @@ body {
     z-index: 3;
 }
 
-.courses-heading,
-.feedback-heading,
-.faq-heading,
-.client-heading {
-    width: 50%;
-    margin: 0 auto;
-}
-
 .successul-heading {
     width: 70%;
 }
@@ -89,34 +81,4 @@ body {
 .fa-circle-chevron-right:hover,
 .fa-circle-chevron-left:hover {
     color: rgb(27, 175, 238);
-}
-
-@media (max-width: 576px) {
-    .carousel-caption {
-        top: 0%;
-    }
-
-    .courses-heading,
-    .feedback-heading,
-    .faq-heading,
-    .client-heading,
-    .successul-heading {
-        width: 90%;
-        margin: 0 auto;
-    }
-}
-
-@media (max-width: 768px) {
-
-    .courses-heading,
-    .feedback-heading,
-    .faq-heading,
-    .client-heading {
-        width: 70%;
-        margin: 0 auto;
-    }
-
-    .successul-heading {
-        margin: 0 auto;
-    }
 }
