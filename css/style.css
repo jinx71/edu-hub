@@ -51,6 +51,10 @@ body {
     margin: 0 auto;
 }
 
+.successul-heading {
+    width: 70%;
+}
+
 .company-profile-card {
     background-color: #F4FAFD;
 }
@@ -119,7 +123,8 @@ body {
     .courses-heading,
     .feedback-heading,
     .faq-heading,
-    .client-heading {
+    .client-heading,
+    .successul-heading {
         width: 90%;
         margin: 0 auto;
     }
@@ -132,6 +137,10 @@ body {
     .faq-heading,
     .client-heading {
         width: 70%;
+        margin: 0 auto;
+    }
+
+    .successul-heading {
         margin: 0 auto;
     }
 }
