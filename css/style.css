@@ -48,6 +48,10 @@ body {
     margin: 0 auto;
 }
 
+.company-profile-card {
+    background-color: #F4FAFD;
+}
+
 @media (max-width: 576px) {
     .carousel-caption {
         top: 0%;
