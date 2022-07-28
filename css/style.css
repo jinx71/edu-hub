@@ -43,8 +43,26 @@ body {
     z-index: 2;
 
 } */
+.courses-heading {
+    width: 50%;
+    margin: 0 auto;
+}
+
 @media (max-width: 576px) {
     .carousel-caption {
         top: 0%;
+    }
+
+    .courses-heading {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .courses-heading {
+        width: 70%;
+        margin: 0 auto;
     }
 }
