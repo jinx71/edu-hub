@@ -44,7 +44,9 @@ body {
 
 } */
 .courses-heading,
-.feedback-heading {
+.feedback-heading,
+.faq-heading,
+.client-heading {
     width: 50%;
     margin: 0 auto;
 }
@@ -115,7 +117,9 @@ body {
     }
 
     .courses-heading,
-    .feedback-heading {
+    .feedback-heading,
+    .faq-heading,
+    .client-heading {
         width: 90%;
         margin: 0 auto;
     }
@@ -124,7 +128,9 @@ body {
 @media (max-width: 768px) {
 
     .courses-heading,
-    .feedback-heading {
+    .feedback-heading,
+    .faq-heading,
+    .client-heading {
         width: 70%;
         margin: 0 auto;
     }
