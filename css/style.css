@@ -52,6 +52,24 @@ body {
     background-color: #F4FAFD;
 }
 
+.register-now {
+    background-color: #289BDE;
+}
+
+.register-button,
+.register-button:hover,
+.register-button:focus {
+    background-color: white;
+    outline: skyblue;
+    color: rgb(9, 167, 230);
+    padding: 10px 15px;
+    font-weight: bold;
+}
+
+.register-button:hover {
+    outline: rgba(27, 175, 238, 0.872);
+}
+
 @media (max-width: 576px) {
     .carousel-caption {
         top: 0%;
