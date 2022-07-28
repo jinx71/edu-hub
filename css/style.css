@@ -3,7 +3,7 @@ body {
 }
 
 .carousel-caption {
-    top: 30%;
+    position: absolute;
     color: white !important;
 }
 
